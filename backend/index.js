@@ -10,13 +10,13 @@ const portfolioData = {
   name: "SAYAK GHOSH",
   about: "FULL STACK DEVELOPER passionate about clean design and great UX.",
   projects: [
-    { title: "SNAKE GAME", description: "YOU CAN ENJOY THIS GAME", link: "littlesnakegame.netlify.app" },
-    { title: "TIC TAC TOE GAME", description: "SIMPLE GAME BUT QUITE IMPRESSIVE", link: "#" }
+    { title: "SNAKE GAME", description: "YOU CAN ENJOY THIS GAME", link: "https://littlesnakegame.netlify.app/" },
+    { title: "TIC TAC TOE GAME", description: "SIMPLE GAME BUT QUITE IMPRESSIVE", link: "https://newgametic.netlify.app/" }
   ],
   contact: {
-    email: "jane@example.com",
+    email: "ghoshsayak2017@gmail.com",
     github: "https://github.com/janedoe",
-    linkedin: "https://linkedin.com/in/janedoe"
+    linkedin: "https://www.linkedin.com/in/sayak-ghosh-66ab78336/"
   }
 };
 
